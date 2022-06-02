@@ -7,7 +7,7 @@ We provide a set of common subroutines and some examples for a few types of CMIP
 |-------|----------|-----------------|---------------|-------------|----------------|
 | ACCESS-CM2 | proleptic_gregorian | arakawa-C | height-level| ACCESS.py|  |
 | CanESM5	| noLeap	| gaussian | sigma-pressure | CanESM5.py | |
-| HadGEM3-GC31-LL | 360_day	| arakawa-C | height-level | HadGEM.py| |
+| HadGEM3-GC31-LL | 360_day	| arakawa-C | height-level | HadGEM.py| very slow server |
 
 More example scripts will be provided in the future.
 
