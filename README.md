@@ -1,5 +1,7 @@
 # future-wind
 
+[![DOI](https://zenodo.org/badge/497835472.svg)](https://zenodo.org/badge/latestdoi/497835472)
+
 Processing six hourly CMIP6 model output for a limited region and interpolating winds to constant heights above ground.
 The search of the necessary fields (u, v, T, q, and ps) is done using [pyesgf](https://esgf-pyclient.readthedocs.io/en/latest/index.html) and ESGF OPeNDAP servers.
 
